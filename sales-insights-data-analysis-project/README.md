@@ -13,4 +13,4 @@ I designed an interactive **Power BI dashboard** with a focus on usability and p
 
 The final solution provides a consolidated view of the company’s sales performance and empowers leadership with actionable insights to effectively track growth and optimize business strategies.
 
-For a detailed explanation of the business problem and analytical approach, please refer to the **Sales Insight Theory.docx** file.
+For a detailed explanation of the business problem and analytical approach, please refer to the **Sales Insight Report.docx** file.
