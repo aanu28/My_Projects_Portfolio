@@ -47,4 +47,4 @@ Thanks for visiting!
 ---
 
 **Anuradha**  
-📧 Email: anu2807@gmail.com
+📧 Email: aanu2807@gmail.com
