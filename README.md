@@ -1,7 +1,7 @@
-# 📊 Data Analytics Projects Repository
+# 📊 Data Analytics & Data Science Projects Repository
 
 Welcome to my GitHub portfolio!  
-I’m **Anuradha**, a data analytics enthusiast with a strong foundation in data handling, analysis, and visualization. This repository showcases a curated collection of data-driven projects that span the complete analytics lifecycle covering:
+I’m **Anuradha**, a data analytics and data science enthusiast with a strong foundation in data handling, analysis, and visualization. This repository showcases a curated collection of data-driven projects that span the complete analytics lifecycle covering:
 - Data extraction and cleaning  
 - Exploratory data analysis (EDA)  
 - ETL and data modeling  
