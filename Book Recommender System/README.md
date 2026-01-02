@@ -10,7 +10,7 @@ Collaborative Filtering-Based Recommender System: Definition: Collaborative filt
 
 Hybrid-Based Recommender System: Definition: Hybrid recommender systems combine multiple recommendation approaches to provide more accurate and diverse recommendations. It leverages the strengths of different methods to overcome their individual limitations. Calculation: Hybrid systems can involve a weighted combination of results from popularity-based, content-based, and collaborative filtering algorithms. The goal is to enhance recommendation accuracy and provide a more personalized user experience.
 
-Here, we build the boo recommender system based on two measures - popularity and collabrative filtering
+Here, we build the book recommender system based on two measures - popularity and collabrative filtering
 
 Constraints used for our recommender system:
 popularity - we will display the top 50 books with highest average rating but we will consider only those books who have got minimum 250 votes.
